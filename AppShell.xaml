@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="CardioGuardMobile.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:CardioGuardMobile"
+    Shell.FlyoutBehavior="Flyout">
+
+    <FlyoutItem Title="Test">
+        <ShellContent
+        Title="Test"
+        ContentTemplate="{DataTemplate local:MainPage}"
+        Route="MainPage" />
+    </FlyoutItem>
+    
+    <FlyoutItem Title="Monitoring">
+        <ShellContent
+        Title="Monitoring"
+        ContentTemplate="{DataTemplate local:Monitor}"
+        Route="Monitor" />
+    </FlyoutItem>
+
+    <FlyoutItem Title="Activity Calendar">
+        <ShellContent
+        Title="Activity Calendar"
+        ContentTemplate="{DataTemplate local:Activity}"
+        Route="Activity" />
+    </FlyoutItem>
+
+    <FlyoutItem Title="Recommendations">
+        <ShellContent
+        Title="Recommendations"
+        ContentTemplate="{DataTemplate local:Recommend}"
+        Route="Recommend" />
+    </FlyoutItem>
+
+</Shell>

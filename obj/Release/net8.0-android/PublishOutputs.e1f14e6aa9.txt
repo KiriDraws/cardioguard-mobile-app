@@ -1,0 +1,4 @@
+C:\Users\Theo\source\repos\CardioGuardMobile\bin\Release\net8.0-android\publish\com.companyname.cardioguardmobile-Signed.aab
+C:\Users\Theo\source\repos\CardioGuardMobile\bin\Release\net8.0-android\publish\com.companyname.cardioguardmobile.aab
+C:\Users\Theo\source\repos\CardioGuardMobile\bin\Release\net8.0-android\publish\com.companyname.cardioguardmobile-Signed.apk
+C:\Users\Theo\source\repos\CardioGuardMobile\bin\Release\net8.0-android\publish\_Microsoft.Android.Resource.Designer.dll
