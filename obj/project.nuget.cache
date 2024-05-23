@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "VcGK957X1Ekk0e77woAzzzS7aRd/Zbnj0mqeH0wgbLWZ87FPol0Uq69lXQkwdRpo0eIuvIyS/sp79x9AqwN9vA==",
+  "dgSpecHash": "s+fI+G9Pj3Xn10IDyMH//i8ame8JXfsGOyUA37ZDv/EgPTRfaiIWeEvxBjfrHetGrnGHb6XpacRxHgYJJuYUjg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Theo\\source\\repos\\CardioGuardMobile1\\CardioGuardMobile.csproj",
   "expectedPackageFiles": [
@@ -110,11 +110,7 @@
     "C:\\Users\\Theo\\.nuget\\packages\\xamarin.kotlin.stdlib.jdk8\\1.9.0.1\\xamarin.kotlin.stdlib.jdk8.1.9.0.1.nupkg.sha512",
     "C:\\Users\\Theo\\.nuget\\packages\\xamarin.kotlinx.coroutines.android\\1.7.2.1\\xamarin.kotlinx.coroutines.android.1.7.2.1.nupkg.sha512",
     "C:\\Users\\Theo\\.nuget\\packages\\xamarin.kotlinx.coroutines.core.jvm\\1.7.2.1\\xamarin.kotlinx.coroutines.core.jvm.1.7.2.1.nupkg.sha512",
-    "C:\\Users\\Theo\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\8.0.5\\microsoft.netcore.app.crossgen2.win-x64.8.0.5.nupkg.sha512",
-    "C:\\Users\\Theo\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.31\\microsoft.windows.sdk.net.ref.10.0.19041.31.nupkg.sha512",
-    "C:\\Users\\Theo\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.5\\microsoft.aspnetcore.app.runtime.win-x64.8.0.5.nupkg.sha512",
-    "C:\\Users\\Theo\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.5\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.5.nupkg.sha512",
-    "C:\\Users\\Theo\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.5\\microsoft.netcore.app.runtime.win-x64.8.0.5.nupkg.sha512"
+    "C:\\Users\\Theo\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.31\\microsoft.windows.sdk.net.ref.10.0.19041.31.nupkg.sha512"
   ],
   "logs": []
 }

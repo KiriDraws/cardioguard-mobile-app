@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CardioGuardMobile")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+dfbf386a198259bce6500c9942bd20516cc3c6b4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+17b048e46fc04bf5901337a013e2724c83d88744")]
 [assembly: System.Reflection.AssemblyProductAttribute("CardioGuardMobile")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CardioGuardMobile")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

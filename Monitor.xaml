@@ -4,9 +4,35 @@
              x:Class="CardioGuardMobile.Monitor"
              Title="Monitoring">
     <VerticalStackLayout>
-        <Label 
-            Text="Monitoring goes here."
-            VerticalOptions="Center" 
+        <Entry 
+            x:Name="UserIDEntry"
+            Placeholder="What is your ID?"
             HorizontalOptions="Center" />
+
+        <Button
+            x:Name="IDBtn"
+            Text="Save ID"
+            Clicked="IDBtn_Clicked"
+            HorizontalOptions="Center"
+            />
+
+        <Label 
+               Text="BPM Test"
+               x:Name="BPM"
+               FontSize="18"
+               HorizontalOptions="Center"/>
+
+        <Entry x:Name="TestEntry" 
+               Keyboard="Numeric"
+               HorizontalOptions="Center"/>
+
+        <Button
+            x:Name="TestBtn"
+            Text="Validate"
+            Clicked="OnBtnClicked"
+            HorizontalOptions="Center"
+            />
+
     </VerticalStackLayout>
 </ContentPage>
+    

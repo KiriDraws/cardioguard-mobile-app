@@ -1,5 +1,6 @@
 ﻿namespace CardioGuardMobile;
 
+
 public static class MauiProgram
 {
 	public static MauiApp CreateMauiApp()
@@ -15,4 +16,7 @@ public static class MauiProgram
 
 		return builder.Build();
 	}
+
 }
+
+
